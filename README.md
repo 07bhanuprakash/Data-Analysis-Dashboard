@@ -3,7 +3,7 @@
 The Vrinda store wants to create an annual sales report for 2022.so that, The owener of vrinda store can understand their customers and grow more sales in 2023.
 
 ## Dataset used
-- <a herf="https://github.com/07bhanuprakash/Data-Analysis-Dashboard/blob/main/Vrinda%20store%20dataset.xlsx">Dataset</a>
+- <a href="https://github.com/07bhanuprakash/Data-Analysis-Dashboard/blob/main/Vrinda%20store%20dataset.xlsx">Dataset</a>
 
 
 ##  kpi's
@@ -14,7 +14,7 @@ The Vrinda store wants to create an annual sales report for 2022.so that, The ow
 - Relation of age vs gender in sales in 2022.	
 - which channel has a maximum sales in the 2022.	
 
-- Dashboard Interaction <a herf="https://github.com/07bhanuprakash/Data-Analysis-Dashboard/blob/main/Dashboard%20screenshot%20.png">view Dasboard</a>
+- Dashboard Interaction <a href="https://github.com/07bhanuprakash/Data-Analysis-Dashboard/blob/main/Dashboard%20screenshot%20.png">view Dasboard</a>
 
 ## process
 - verify data for any missing values and anomalies, and out the same.
