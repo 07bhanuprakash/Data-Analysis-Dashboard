@@ -33,6 +33,6 @@ The Vrinda store wants to create an annual sales report for 2022.so that, The ow
 - More than 90% of the products delivered.
 
   ## Final conclusion
-  To improve the sales of yrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented.In online shopping incerase the cuopons and increase the
+  To improve the sales of yrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented.In online shopping paltforms incerase the coupons and increase the
   digital marketing  campaigns and personalized promotions to capture their attention. 
 
